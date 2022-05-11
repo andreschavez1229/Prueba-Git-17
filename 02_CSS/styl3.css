@@ -1,0 +1,70 @@
+#navbar {
+    background-color: slategray;
+    text-align: center;
+    text-size-adjust: 10px;
+    font-size: 30px;
+
+
+}
+
+
+
+
+#banner{
+    background-color: palevioletred;
+    width: 350px;
+    height: 50px;
+    text-align: center;
+    font-size: 15px;
+
+}
+
+.content¨{
+    background-color: seagreen;
+    text-align: center;
+}
+
+
+a{
+    text-decoration-style: dashed;
+    text-align: left;
+    float: left;
+
+}
+
+
+#home{
+    background-color: tomato;
+    padding: 30px 100px;
+    border:5px solid black ;
+    margin: 10px 50px 100px 200px;
+
+}
+
+#dog{
+    background-color: rgb(92, 196, 228);
+    padding-left: 50px;
+    padding-top: 150px;
+    padding-bottom: 150px;
+    padding-right: 100px;
+    border: 10px dashed rgb(204, 0, 51);
+    margin: 10px 50px 100px 200px;  
+    font-size: large;
+ 
+
+}
+
+#Perrillo{
+    background-image: url(https://www.eff.org/files/banner_library/printer-dots-1_0.png);
+    border: black dashed 7px;
+
+    font-size: large;
+ 
+
+}
+
+h2{
+    color: cornflowerblue;
+    text-align: center;
+}
+

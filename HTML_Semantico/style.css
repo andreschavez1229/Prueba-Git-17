@@ -1,0 +1,21 @@
+img{
+float: right;
+
+}
+
+#fig{
+    width: 200px;
+    float: right;
+
+}
+
+aside{
+    float: left;
+}
+
+#video99{
+    background-color: rgb(3, 6, 128);
+    width: 500px;
+}
+
+

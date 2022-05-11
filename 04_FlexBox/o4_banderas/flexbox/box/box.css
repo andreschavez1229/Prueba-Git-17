@@ -1,0 +1,33 @@
+.noruega{
+  background-color: red;
+  width: 600px;
+  height: 400px;
+  margin: auto;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+.hijos{
+    background-color: blue;
+    width: 33.33%;
+    flex: none;
+    margin-bottom: 2%;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+/* Separador */
+
+.hijos2{
+    background-color: blue;
+    width: 400px;
+    flex: none;
+    margin-bottom: 2%;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
