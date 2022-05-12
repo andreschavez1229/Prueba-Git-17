@@ -1,0 +1,109 @@
+/* Float and Clear */
+
+.padre{
+    background-color: aqua;
+    height: 500px;
+    width: 80%;
+
+}
+
+.hijo1{
+    background-color: black;
+    height: 250px;
+    width: 250px;
+    float: left;
+
+}
+/* xxxxxxxxxxxxx */
+.hijo2{
+    background-color:red;
+    height: 350px;
+    width: 350px;
+    float: right;
+
+
+}
+/* xxxxxxxxxxxxxx */
+.hijo3{
+    background-color: blue;
+    height: 450px;
+    width: 450px;
+    clear: right;
+
+}
+/* xxxxxxxxxxxxxx */
+
+.hijo4{
+    background-color: seagreen;
+    height: 50px;
+    width: 50px;
+    clear: both;
+
+}
+
+/*Position */
+.anakin{
+    background-color: rgba(6, 84, 228, 0.486);
+    height: 500px;
+    width: 100%;
+
+}
+
+/* xxxxxxxxxxxxxxx */
+
+.luk1{
+    background-color: black;
+    height: 50px;
+    width: 50px;
+    position: static;
+    top: 40px;
+    left: 10px;
+
+
+}
+/* xxxxxxxxxxxxx */
+.luk2{
+    background-color:red;
+    height: 50px;
+    width: 50px;
+    position: relative;
+    top: 40px;
+    left: 10px;
+
+
+}
+/* xxxxxxxxxxxxxx */
+.luk3{
+    background-color: rgb(209, 171, 171);
+    height: 50px;
+    width: 50px;
+    position: absolute;
+    top: 40px;
+    left: 10px;
+
+}
+/* xxxxxxxxxxxxxx */
+
+.luk4{
+    background-color: seagreen;
+    height: 50px;
+    width: 50px;
+    position: fixed;
+    right: 26px;
+    bottom: 25px;
+
+
+}
+/* xxxxxxxxxxxxxzz */
+
+.luk5{
+    background-color: rgb(130, 96, 168);
+    height: 50px;
+    width: 50px;
+    position: sticky;
+    left: 26px;
+    bottom: 250px;
+
+
+}
+/* xxxxxxxxxxxxxxxx */
